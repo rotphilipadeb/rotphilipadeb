@@ -13,10 +13,10 @@ I am a passionate Machine Learning Engineer and Lecturer with a strong backgroun
 
 ## Skills
 
-- **Programming Languages**: Python, R, MATLAB, C++
+- **Programming Languages**: Python, Java, MATLAB
 - **Machine Learning Libraries**: TensorFlow, PyTorch, Scikit-Learn, Keras
-- **Data Analysis Tools**: Pandas, NumPy, SciPy
-- **Other Tools**: Git, Docker, Jupyter, VS Code
+- **Data Analysis Tools**: Pandas, NumPy, SciPy, Matplotlib
+- **Other Tools**: Google Colab, HTML, CSS, Jupyter, VS Code
 
 ## Projects
 
@@ -31,17 +31,17 @@ A brief description of what this project does and its importance.
 
 ## Publications
 
-- [Publication Title 1](https://link-to-publication1.com)
-- [Publication Title 2](https://link-to-publication2.com)
+- [Applying the Self-Organizing Map in the Classification of 195 Countries Using 32 Attributes](https://www.sciencepublishinggroup.com/article/10.11648/j.ijiis.20231201.12)
+- [The Taxonomy of Living Organisms Using Self-organizing Map](https://www.sciencepublishinggroup.com/article/10.11648/j.ajai.20200402.12)
 - [Publication Title 3](https://link-to-publication3.com)
 
 ## Teaching
 
 I have a passion for teaching and have been a lecturer for [X] years. Here are some of the courses I have taught:
 
-- **Course Name 1**: A brief description of this course.
-- **Course Name 2**: A brief description of this course.
-- **Course Name 3**: A brief description of this course.
+- **Course Name 1**: Machine Learning & Machine Learning Model Development.
+- **Course Name 2**: Advanced Mathematics: A'level Mathematics & SAT Mathematics.
+- **Course Name 3**: General Computer Science.
 
 ## Get in Touch
 
