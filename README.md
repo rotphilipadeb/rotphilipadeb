@@ -26,8 +26,8 @@ I am a passionate Machine Learning Engineer and Lecturer with a strong backgroun
 
 ## Projects
 
-### [Project Name 1](https://github.com/yourusername/project1)
-A brief description of what this project does and its importance.
+### [Building a machine learning model for car price prediction](https://github.com/yourusername/project1)
+This product builds machine learning models to predicts the price of four car models: Mercedes, Toyota, Honda, and BMW. The data has 21 columns and a total of 4000 rows for each car model.
 
 ### [Project Name 2](https://github.com/yourusername/project2)
 A brief description of what this project does and its importance.
