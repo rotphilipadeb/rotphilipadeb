@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm ADEBAYO, Rotimi Philip 👋
 
 ![Profile Banner](https://your-banner-image-url.com)
 
@@ -8,7 +8,7 @@ I am a passionate Machine Learning Engineer and Lecturer with a strong backgroun
 
 - 🌱 I’m currently working on: Advanced neural network architectures and their applications in real-world problems.
 - 💬 Ask me about: Machine learning, deep learning, data science, and artificial intelligence.
-- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
+- 📫 How to reach me: [adebayophilip72@gmail.com](mailto:adebayophilip72@gmail.com)
 - 📝 Check out my [CV/Resume](https://your-cv-link.com)
 
 ## Skills
