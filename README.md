@@ -31,8 +31,8 @@ A brief description of what this project does and its importance.
 
 ## Publications
 
-- [Adebayo Rotimi Philip. (2023). Applying the Self-Organizing Map in the Classification of 195 Countries Using 32 Attributes. International Journal of Intelligent Information Systems, 12(1), 10-25. https://doi.org/10.11648/j.ijiis.20231201.12](https://www.sciencepublishinggroup.com/article/10.11648/j.ijiis.20231201.12)
-- [Adebayo Rotimi Philip. (2020). The Taxonomy of Living Organisms Using Self-organizing Map. American Journal of Artificial Intelligence, 4(2), 50-61. https://doi.org/10.11648/j.ajai.20200402.12](https://www.sciencepublishinggroup.com/article/10.11648/j.ajai.20200402.12)
+- <p>[Adebayo Rotimi Philip. (2023). Applying the Self-Organizing Map in the Classification of 195 Countries Using 32 Attributes. International Journal of Intelligent Information Systems, 12(1), 10-25. https://doi.org/10.11648/j.ijiis.20231201.12](https://www.sciencepublishinggroup.com/article/10.11648/j.ijiis.20231201.12)</p>
+- <p>[Adebayo Rotimi Philip. (2020). The Taxonomy of Living Organisms Using Self-organizing Map. American Journal of Artificial Intelligence, 4(2), 50-61. https://doi.org/10.11648/j.ajai.20200402.12](https://www.sciencepublishinggroup.com/article/10.11648/j.ajai.20200402.12)</p>
 - [Publication Title 3](https://link-to-publication3.com)
 
 ## Teaching
