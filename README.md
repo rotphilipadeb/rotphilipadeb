@@ -18,17 +18,6 @@ I am a passionate Machine Learning Engineer and Lecturer with a strong backgroun
 - **Data Analysis Tools**: Pandas, NumPy, SciPy, Matplotlib
 - **Other Tools**: Google Colab, HTML, CSS, Jupyter, VS Code
 
-## Projects
-
-### [Project Name 1](https://github.com/yourusername/project1)
-A brief description of what this project does and its importance.
-
-### [Project Name 2](https://github.com/yourusername/project2)
-A brief description of what this project does and its importance.
-
-### [Project Name 3](https://github.com/yourusername/project3)
-A brief description of what this project does and its importance.
-
 ## Publications
 
 - <p>[Adebayo Rotimi Philip. (2023). Applying the Self-Organizing Map in the Classification of 195 Countries Using 32 Attributes. International Journal of Intelligent Information Systems, 12(1), 10-25. https://doi.org/10.11648/j.ijiis.20231201.12](https://www.sciencepublishinggroup.com/article/10.11648/j.ijiis.20231201.12)</p>
