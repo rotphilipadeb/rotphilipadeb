@@ -24,6 +24,17 @@ I am a passionate Machine Learning Engineer and Lecturer with a strong backgroun
 - <p>[Adebayo Rotimi Philip. (2020). The Taxonomy of Living Organisms Using Self-organizing Map. American Journal of Artificial Intelligence, 4(2), 50-61. https://doi.org/10.11648/j.ajai.20200402.12](https://www.sciencepublishinggroup.com/article/10.11648/j.ajai.20200402.12)</p>
 - [Publication Title 3](https://link-to-publication3.com)
 
+## Projects
+
+### [Project Name 1](https://github.com/yourusername/project1)
+A brief description of what this project does and its importance.
+
+### [Project Name 2](https://github.com/yourusername/project2)
+A brief description of what this project does and its importance.
+
+### [Project Name 3](https://github.com/yourusername/project3)
+A brief description of what this project does and its importance.
+
 ## Teaching
 
 I have a passion for teaching and have been a lecturer for [X] years. Here are some of the courses I have taught:
