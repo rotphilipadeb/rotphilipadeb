@@ -16,7 +16,7 @@ I am a passionate Machine Learning Engineer and Lecturer with a strong backgroun
 - **Programming Languages**: Python, Java, MATLAB
 - **Machine Learning Libraries**: TensorFlow, PyTorch, Scikit-Learn, Keras
 - **Data Analysis Tools**: Pandas, NumPy, SciPy, Matplotlib
-- **Other Tools**: Google Colab, HTML, CSS, Jupyter, VS Code
+- **Other Tools**: Google Colab, HTML, CSS, Jupyter, VS Code, SAS Enterprise Miner
 
 ## Publications
 
